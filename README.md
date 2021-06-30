@@ -1,7 +1,7 @@
 - Ciao, I’m @fedoloo
 - I’m a student in Physics @ Università degli Studi di Cagliari .
 - I’m currently learning basic programming and python.
-- I'm also tryin' to understand how to use GitHub and Stackoverflow to improve my skills.
+- I'm also tryin' to understand how to use GitHub and Stackoverflow to improve.
 - 
 
 <!---
