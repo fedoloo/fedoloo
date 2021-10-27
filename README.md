@@ -1,8 +1,5 @@
 - Ciao, I’m @fedoloo
-- I’m a student in Physics @ Università degli Studi di Cagliari .
-- I’m currently learning basic programming and python.
-- I'm also tryin' to understand how to use GitHub and Stackoverflow to improve.
-- 
+- I’m currently learning basic CS and python. 
 
 <!---
 fedoloo/fedoloo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
