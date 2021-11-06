@@ -1,5 +1,5 @@
 - Ciao, I’m @fedoloo
-- I’m currently learning basic CS and python, because next year i would like to start studying CS @ UniCA here in Cagliari.
+- I’m currently learning basic CS and python.
 
 <!---
 fedoloo/fedoloo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
